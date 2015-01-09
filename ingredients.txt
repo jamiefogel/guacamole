@@ -4,6 +4,6 @@
 - cilantro
 - salt
 - pepper
-- garlic
+- minced garlic
 
 
