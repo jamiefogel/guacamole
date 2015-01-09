@@ -5,5 +5,6 @@
 - salt
 - pepper
 - minced garlic
+- 1 habanero
 
 
