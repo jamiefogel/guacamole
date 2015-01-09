@@ -4,5 +4,6 @@
 - cilantro
 - salt
 - pepper
+- garlic
 
 
